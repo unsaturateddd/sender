@@ -1,0 +1,22 @@
+{
+  "name": "1win",
+  "short_name": "1win",
+  "theme_color": "#090f1e",
+  "icons": [
+    {
+      "src": "/static/media/android-chrome-192x192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/static/media/android-chrome-512x512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ],
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#090f1e",
+  "scope": ".",
+  "description": "Ставки на спорт онлайн теперь проще и быстрее. Бонус при первом депозите – 500%. Заходи и выигрывай сейчас!"
+}
